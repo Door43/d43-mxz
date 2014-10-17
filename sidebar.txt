@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxz:home|Door43 (mxz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxz|d43-mxz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxz/archive/master.zip|d43-mxz.zip]]
+
+**Recent Changes**
+{{changes>ns = mxz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxz|Ethnologue data]]
+
